@@ -1,0 +1,20 @@
+   
+    
+    .error
+    {
+        color: Red;
+        visibility: hidden;
+    }
+   .pa{
+    text-align: center;
+    margin:200px;
+    background-color: rgb(242, 189, 148);
+    padding:80px;
+    border:1px solid black;
+   }
+    button{
+    background-color: rgb(147, 179, 240);
+  }
+  button:hover{
+    background-color: rgb(171, 98, 239);
+  }
